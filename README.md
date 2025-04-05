@@ -8,8 +8,8 @@ The objective of this project is to explore and analyze the Google Play Store ap
 
 ## Conclusion
 After analyzing the dataset we have got answers to some of the serious & interesting facts which any of the android users would love to know. 
-a)	Top 10 Most installed apps on play store.
-b)	Number of Application in terms of Category.
-c)	Top 5 Most common genres.
-d)	Free and Paid Apps.
-f)	Most Apps are suitable for everyone based on ratings.
+- Top 10 Most installed apps on play store.
+- Number of Application in terms of Category.
+- Top 5 Most common genres.
+- Free and Paid Apps.
+- Most Apps are suitable for everyone based on ratings.
